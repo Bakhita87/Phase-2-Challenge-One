@@ -1,9 +1,9 @@
 input{
-  width: 60%;
+  width: 90%;
   height: 50%;
-  margin: 45px 109px 113px 60px;
+
   padding: 17px 153px 17px 154px;
-  border-radius: 34px;
+  border-radius: 8px;
   box-shadow: 0 3px 6px 0 rgba(36, 198, 220, 0.15);
   background-color: #fff;
   border: solid 3px white;
