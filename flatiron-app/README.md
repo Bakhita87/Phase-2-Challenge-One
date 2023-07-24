@@ -1,20 +1,17 @@
-Title
+Title :
 
 
  Bank of flatiron
 
-Description
+Description :
 
+Bank of Flatiron is a React application that displays a list of recent bank transactions
 
-  Bank of Flatiron is a React application that displays a list of recent bank transactions
+Demolink :
 
-Demolink
+https://curriculum-content.s3.amazonaws.com/phase-2/phase-2-code-challenge-bank-of-flatiron/demo.gif
 
+Author :
 
- https://curriculum-content.s3.amazonaws.com/phase-2/phase-2-code-challenge-bank-of-flatiron/demo.gif
-
-Author
-
-
- Bakhita Otieno
+Bakhita Otieno
 
