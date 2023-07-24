@@ -3,10 +3,10 @@ import './AddTransactions.css'
 
 
 function AddTransactions() {
-  const [date, setDate] = useState('')
-  const [amount, setAmount] = useState('')
-  const [category, setCategory] = useState('')
-  const [description, setDescription] = useState('')
+  const [date, setDate] = useState(' ')
+  const [amount, setAmount] = useState(' ')
+  const [category, setCategory] = useState(' ')
+  const [description, setDescription] = useState(' ')
   
   function handleSubmit(e) {
     
