@@ -1,5 +1,5 @@
 {
-  "transactions":[
+  "transactions": [
     {
       "id": 1,
       "date": "2019-12-01",
@@ -97,13 +97,7 @@
       "category": "Food",
       "amount": "3000",
       "id": 14
-    },
-    {
-      "date": "2023-07-26",
-      "description": "Movie",
-      "category": "Entertainment",
-      "amount": "80",
-      "id": 15
     }
+    
   ]
 }
