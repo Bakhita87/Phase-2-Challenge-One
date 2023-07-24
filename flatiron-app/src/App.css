@@ -2,18 +2,18 @@
   background-color:  #f0f0f0;
 }
 
-.App {
+.App{
   text-align: center;
   
 }
 
-table {
+table{
   border-collapse: collapse;
   width: 100%;
 }
 
 th,
-td {
+td{
   border: 1px solid #27022b;
   text-align: left;
   padding: 8px;
@@ -22,7 +22,7 @@ td {
   
 }
 
-th {
+th{
   background-color: white;
 }
 
