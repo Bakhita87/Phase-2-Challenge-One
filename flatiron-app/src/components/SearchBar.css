@@ -1,10 +1,14 @@
-input{
-  width: 90%;
-  height: 50%;
+
+
+.search-bar input{
+  width: 50%;
+  height: 30%;
+  margin-bottom: 20px;
 
   padding: 17px 153px 17px 154px;
   border-radius: 8px;
-  box-shadow: 0 3px 6px 0 rgba(36, 198, 220, 0.15);
+  box-shadow: 0 3px 6px 0 rgba(186, 87, 224, 0.15);
   background-color: #fff;
   border: solid 3px white;
 }
+

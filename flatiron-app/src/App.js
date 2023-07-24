@@ -7,11 +7,14 @@ import './App.css';
 function App() {
 
   const[transactions,setTransactions] = useState([])
+  const[mainTransactions,setMainTransactions] = useState([])
+
   useEffect(() => {
     fetch('http://localhost:8001/transactions')
      .then(res => res.json())
      .then(data => {console.log(data)
         setTransactions(data)
+        setMainTransactions(data)
      }
      )
   },[])
@@ -24,7 +27,7 @@ function App() {
     <div className="App">
      
      <Header/> 
-     <SearchBar/>
+     <SearchBar transactions = {transactions} setTransactions = {setTransactions} mainTransactions = {mainTransactions}/>
      <Transactions/>  
      <table>
       <thead>

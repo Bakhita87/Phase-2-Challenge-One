@@ -1,15 +1,18 @@
 
 .form-data input{
-    width: 8px;
+    width: 9%;
    height: 10px;
-    padding: 17px 153px 17px 154px;
-    box-shadow: 0 3px 6px 0 rgba(36, 198, 220, 0.15);
+   
+    padding: 17px 153px 20px 40px;
+    box-shadow: 0 3px 6px 0 rgba(186, 67, 202, 0.15);
     background-color: #fff;
     border: solid 1px rgb(192, 189, 189);
+    margin-bottom: 10px;
+   
 }
 
 .form-data button{
-  width: 80px;
+  width: 25%;
   height: 38px;
   padding: 3px 113px 10px 90px;
   border-radius: 8px;

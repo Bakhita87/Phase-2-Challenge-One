@@ -1,5 +1,6 @@
 h1{
- width: 80%;
+    position: relative;
+ width: 90%;
  height: 65%;
  padding: 11px 113px 8px 114px;
  background-color: #391168;
